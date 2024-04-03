@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[DSAI | Data Science and AI Association of Australia]]></title>
+    <link href="/blog/tags/humour.xml" rel="self"/>
+    <link href="/blog/"/>
+    <updated>2020-10-13T05:33:54+00:00</updated>
+    <id>/blog/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Machine Learning Jokes]]></title>
+            <link href="/blog/2019/05/20/machine-learning-jokes"/>
+            <updated>2019-05-20T00:00:00+00:00</updated>
+            <id>/blog/2019/05/20/machine-learning-jokes</id>
+            <content type="html"><![CDATA[<p><strong>Machine Learning Jokes</strong></p>
+
+<p><img src="/blog/images/jokes.jpg" alt="Robot performing a stand up comedy routine."></p>
+
+<p>If you don’t find this funny, well, its time to brush up your linear algebra and multivariable calculus.</p>
+
+<ol>
+<li>Why are neural networks better than humans ? Because they actually learn from their mistakes.</li>
+<li>Why is machine learning so racist ? Because it divides everything in classes. </li>
+<li>What do you call glorified curve fitting ? Deep learning.</li>
+<li>Why can’t random forest learn anything on its own ? Because it needs supervision.</li>
+<li>Data scientist goes in for a kidney transplant. Asks the surgeon “ Have you done this before “ The surgeon says “ No, but I have watched the first 10 minutes of ‘Learn surgery in 1 hour’". </li>
+<li>How do you raise a billion dollar for your coffee business in silicon valley ? You rename the business to Deep.Coffee.AI </li>
+<li>What is Ian Goodfellow's favourite catch phrase ? Yes we GAN. </li>
+<li>1 Million robots marched towards the cliff, 999999 fell off the cliff and were destroyed but 1 didn't, why ? Because it takes a robot that many examples to learn something. </li>
+<li>Whats the difference between a LSTM and Donald Trump ? A LSTM is capable of generating perfect English sentences. </li>
+<li>What did the cost function say to the waiter after looking at the dinner bill ? Hey can you minimize that. </li>
+</ol>
+]]></content>
+        </entry>
+    </feed>

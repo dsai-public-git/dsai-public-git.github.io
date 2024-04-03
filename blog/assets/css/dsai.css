@@ -1,0 +1,24 @@
+.section-shaped .shape-style-1.shape-dsai
+{
+    background: #555abf url(../img/hero/Uluru-Australia.png) center bottom;
+    background-size: cover;
+}
+
+.navbar-transparent
+{
+    position: absolute;
+    z-index: 100;
+    top: 0;
+
+    width: 100%;
+
+    border: 0;
+    background-color: rgba(0, 0, 0, .3);
+    box-shadow: none;
+}
+
+.event-title,
+.event-date,
+.event-venue {
+    font-weight: bold !important;
+}

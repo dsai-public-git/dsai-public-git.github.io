@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[DSAI | Data Science and AI Association of Australia]]></title>
+    <link href="/blog/tags/ml.xml" rel="self"/>
+    <link href="/blog/"/>
+    <updated>2020-10-13T05:33:54+00:00</updated>
+    <id>/blog/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Unprecedented times – leading new conversations with data]]></title>
+            <link href="/blog/2020/09/10/unprecedented-times-leading-new-conversations-with-data"/>
+            <updated>2020-09-10T00:00:00+00:00</updated>
+            <id>/blog/2020/09/10/unprecedented-times-leading-new-conversations-with-data</id>
+            <content type="html"><![CDATA[<p>The term "unprecedented" has been repeated often in 2020. It’s a word
+that has come to symbolize the chaos and disruption that has left many
+people and companies in turmoil. Despite this, "unprecedented" does not
+have to just have negative connotations though. There is the opportunity
+to create unprecedented good in this world too. With <strong>Arturo
+Rodriguez</strong> and I coming onboard to the DSAi community I think there is
+an unprecedented opportunity and that is to have more amazing
+conversations around the power of data and the technologies out there
+than can turn raw information into powerful insights.</p>
+
+<p> </p>
+
+<p>For those who don't know, DSAi was built from a collective of separate
+data science communities and brought together thanks to
+co-founders <strong>Jacky Koh, Paul Steven Conyngham </strong>and<strong> Shuning Zhao</strong>.
+Over their short period of existence, they've grown from strength to
+strength and we're going to continue developing the value that a
+community like this can bring.</p>
+
+<p> </p>
+
+<p>2020 has been a crazy year for people in many industries but data and
+technology can be a catalyst to change and improve the world and give
+people a chance to control the narrative. Whether you're a decision
+maker, manager, analyst or someone just starting to get invovled in
+data, then come check out DSAi and register your interest in the link
+below so you too can become part of an amazing community.</p>
+
+<p>We’re going to be focusing on 3 types of events that the data community
+in Australia (and globally) can be a part and we’re looking forward to
+those who can participate as well as those who have ideas for how they
+can contribute to the conversation here.</p>
+
+<p> </p>
+
+<p>The 3 event types are made to help facilitate conversations for
+different levels of users. These range from <strong>Getting Started </strong>events
+for the novice data analysts and those interested in getting started
+to <strong>Masterclasses </strong>for the more senior and advanced people working
+with data. Finally, we will also be catering towards the decision makers
+on the data community and helping them understand the latest and
+greatest goings on in the the world of data. Bringing all of these sorts
+of people together in one place means we’ll all be talking the same
+language and we hope will lead to more meaningful conversations about
+data. When it comes to talking about data we want DSAi to be the place
+to go to and we want to make sure everyone gets value from it.</p>
+
+<p> </p>
+
+<h2 id="%2A%2Aevent-types%2A%2A"><strong>Event types</strong></h2>
+
+<ul>
+<li><strong>Getting Started</strong> – these events are for those getting started and
+we will have speakers present examples of work that they have done.
+This ranges from crunching the numbers with data science tools like
+Python and R to visualization techniques in data analytics
+applications like Qlik, Tableau or Power BI.</li>
+<li><strong>Masterclasses </strong>– these events are geared towards more experienced
+people across different industries to talk about specific problems
+they’ve solved as well as coming together to help each other solve
+problems. There may be some data war stories or examples of how to
+get projects done better.</li>
+<li><strong>Interviews and Roundtables </strong>– this type of event brings in more
+of the decision makers and business end of the scale into the data
+conversation. Whilst a data community can get a lot done by
+collaborating with one another, we want to get more parts of the
+business into the conversation too so we can better understand their
+pain points and help each other with better ways of working. These
+interviews (and eventually roundtables) will help us understand
+that.</li>
+</ul>
+
+<p>It's going to be an exciting period going forward for DSAi and we look
+forward to being part of your data journey!</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[Machine Learning Jokes]]></title>
+            <link href="/blog/2019/05/20/machine-learning-jokes"/>
+            <updated>2019-05-20T00:00:00+00:00</updated>
+            <id>/blog/2019/05/20/machine-learning-jokes</id>
+            <content type="html"><![CDATA[<p><strong>Machine Learning Jokes</strong></p>
+
+<p><img src="/blog/images/jokes.jpg" alt="Robot performing a stand up comedy routine."></p>
+
+<p>If you don’t find this funny, well, its time to brush up your linear algebra and multivariable calculus.</p>
+
+<ol>
+<li>Why are neural networks better than humans ? Because they actually learn from their mistakes.</li>
+<li>Why is machine learning so racist ? Because it divides everything in classes. </li>
+<li>What do you call glorified curve fitting ? Deep learning.</li>
+<li>Why can’t random forest learn anything on its own ? Because it needs supervision.</li>
+<li>Data scientist goes in for a kidney transplant. Asks the surgeon “ Have you done this before “ The surgeon says “ No, but I have watched the first 10 minutes of ‘Learn surgery in 1 hour’". </li>
+<li>How do you raise a billion dollar for your coffee business in silicon valley ? You rename the business to Deep.Coffee.AI </li>
+<li>What is Ian Goodfellow's favourite catch phrase ? Yes we GAN. </li>
+<li>1 Million robots marched towards the cliff, 999999 fell off the cliff and were destroyed but 1 didn't, why ? Because it takes a robot that many examples to learn something. </li>
+<li>Whats the difference between a LSTM and Donald Trump ? A LSTM is capable of generating perfect English sentences. </li>
+<li>What did the cost function say to the waiter after looking at the dinner bill ? Hey can you minimize that. </li>
+</ol>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[Symbolic AI, return of the prodigal son]]></title>
+            <link href="/blog/2018/03/26/symbolic-ai-return-of-the-prodigal-son"/>
+            <updated>2018-03-26T00:00:00+00:00</updated>
+            <id>/blog/2018/03/26/symbolic-ai-return-of-the-prodigal-son</id>
+            <content type="html"><![CDATA[<p><img src="/blog/images/Symbolic-AI.png" alt="Robot looking at a dog in the snow. It can't decide whether he sees a wolf or a dog." /></p>
+
+<p><strong>What is Symbolic AI ?</strong></p>
+
+<p>As humans, we represent the world around us through high level concepts. For example,  words like 'Trees', 'Flowers', 'Skyscrapers' are symbols that stand for something or someone.  The essence of symbolic AI is reasoning through relationships among high level concepts, such as “All men are mortal; Caius is a man; therefore Caius is mortal – associating mortality with all men. However, it is quite labour  intensive, as a human has to encode these high level concepts and their relationship into rules. These rules are encoded as if then statements.</p>
+
+<p><strong>A bit about its history</strong></p>
+
+<p>Symbolic AI was the dominant form of AI until the 1980s when statistical methods took over. The term artificial intelligence was coined at the seminal conference in 1956 at Dartmouth, organized by John McCarthy. The pioneers of the field John McCarthy and Marvin Minsky believed a rule-based system will ultimately lead to human level intelligence (Artificial General Intelligence) and beyond. Symbolic AI is also often referred as 'Good Old Fashioned AI' because of this historical context. There is an ongoing project called 'Cyc' is-, one of the longest running. It aims to codify all of the 'common sense knowledge' a human possesses. The hypothesis is that an artificial system should eventually be able to reason like a human once this system has access to all common sense knowledge.</p>
+
+<p><strong>Why it failed to deliver on its promise ?</strong></p>
+
+<p>The approach was overtaken by statistical methods for basically two reasons.</p>
+
+<ol>
+<li>Hard coding a chain of rules for sufficiently complex tasks can be overwhelming and requires domain expertise. Imagine defining a set of rules to recognize dogs in images-  they are furry (but not always), have got two eyes and four legs, and have different shapes, sizes and colours. Defining rules to identify every possible species of dogs can soon become overwhelmingly complex and impractical.</li>
+<li>Rule based reasoning systems are not robust against noisy data. The real world is noisy, peppered with counter examples. Going back to earlier examples of defining rules for identifying dogs. Dogs are four legged animals, but some might be born with three due to a genetic defect or might lose one due to an accident. A system based on rigid set or chain of rules is very difficult to modify and accommodate for all the variations found in nature.</li>
+</ol>
+
+<p><strong>Finally, its resurgence or why do we need it again ?</strong></p>
+
+<p>Statistical machine learning and its modern avatar deep learning (including deep reinforcement learning) has had a profound impact on our society. Autonomous cars, super human performance in the game of GO and near perfect speech recognition is the result of deep learning and specialized hardware. However, these systems are notorious for being data intensive.</p>
+
+<p>When DeepMind achieved super human results in the Atari game of  Pong and Breakout using deep reinforcement learning it had to play millions of games with itself, while humans can understand the game mechanics and become decent players with just few examples. The deep network has no concept of a ball, pedal or that the ball needs to be struck with the pedal. The system learns everything from scratch (just pixels).</p>
+
+<p>This is where a hybrid system (Symbolic AI + Deep learning) could potentially be revolutionary as they complement each other quite well. If the system can learn to represent high level concepts like ball, pedal and their relationships as step 1 that would speed up learning to play the game quite significantly. Higher level concepts and relationships also makes it re-usable and easy to transfer knowledge.</p>
+
+<p><strong>Summary</strong></p>
+
+<p>Symbolic AI is set of powerful tools to build intelligent systems that humans can understand and reason about. The tedious nature of building these systems eventually resulted in statistical methods becoming dominant for AI, however it issreturningmaking a comeback . Shortcomings of deep learning align well with strengths of Symbolic systems, hence its poised to take the field of AI to the next level.</p>
+
+<p><strong>To learn more</strong></p>
+
+<p><a href="https://skymind.ai/wiki/symbolic-reasoning">Symbolic reasoning</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=iiMCOIGWcok">A nice video introduction</a></p>
+
+<p><a href="https://www.reddit.com/r/artificial/comments/ziw60/what_was_gofai_and_why_did_it_fail/c6531lf/">What was Good Old Fashioned AI and why did it fail</a></p>
+
+<p><a href="https://arxiv.org/pdf/1609.05518.pdf">Towards Deep Symbolic Reinforcement Learning</a></p>
+
+<p><a href="https://offoff.studio/">Artwork by offoff.studio</a></p>
+]]></content>
+        </entry>
+    </feed>
