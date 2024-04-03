@@ -1,8 +1,14 @@
-# j`Installation and development
+# Installation and development
 
-1. Install npm https://www.npmjs.com/
-2. run 'npm install' in project folder
-3. run 'gulp' in project folder - the browser with a page will open, you are set for viewing and development
+1. install nvm
+2. run:
+
+'nvm install 18'
+'nvm use 18'
+'npm install'
+'npx gulp'
+
+The browser with a page will open, you are set for viewing and development.
 
 ---
 

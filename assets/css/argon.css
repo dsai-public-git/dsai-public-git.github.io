@@ -71,11 +71,6 @@ html
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
-@-ms-viewport
-{
-    width: device-width;
-}
-
 article,
 aside,
 figcaption,
@@ -2366,11 +2361,6 @@ pre code
     background-color: #fff;
     box-shadow: none, none;
 }
-.form-control::-ms-input-placeholder
-{
-    opacity: 1; 
-    color: #adb5bd;
-}
 .form-control::placeholder
 {
     opacity: 1; 
@@ -2910,8 +2900,6 @@ textarea.form-control
     padding: .625rem 1.25rem;
 
     -webkit-user-select: none;
-       -moz-user-select: none;
-        -ms-user-select: none;
             user-select: none;
     transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out; 
     text-align: center;
@@ -4712,8 +4700,6 @@ input[type='button'].btn-block
 
     content: '';
     -webkit-user-select: none;
-       -moz-user-select: none;
-        -ms-user-select: none;
             user-select: none;
     pointer-events: none;
 
@@ -4814,7 +4800,6 @@ input[type='button'].btn-block
     box-shadow: inset 0 1px 2px rgba(0, 0, 0, .075);
 
     -webkit-appearance: none;
-       -moz-appearance: none;
             appearance: none;
 }
 .custom-select:focus
@@ -4954,7 +4939,6 @@ input[type='button'].btn-block
     background-color: transparent;
 
     -webkit-appearance: none;
-       -moz-appearance: none;
             appearance: none;
 }
 .custom-range:focus
@@ -4983,7 +4967,8 @@ input[type='button'].btn-block
     height: 1rem;
     margin-top: -.25rem;
 
-    transition: background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    -webkit-transition: background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+            transition: background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 
     border: 0;
     border-radius: 1rem;
@@ -4997,7 +4982,8 @@ input[type='button'].btn-block
 {
     .custom-range::-webkit-slider-thumb
     {
-        transition: none;
+        -webkit-transition: none;
+                transition: none;
     }
 }
 .custom-range::-webkit-slider-thumb:active
@@ -5022,21 +5008,22 @@ input[type='button'].btn-block
     width: 1rem;
     height: 1rem;
 
-    transition: background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    -moz-transition: background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+         transition: background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 
     border: 0;
     border-radius: 1rem;
     background-color: #5e72e4;
     box-shadow: 0 .1rem .25rem rgba(0, 0, 0, .1);
 
-    -moz-appearance: none;
-         appearance: none;
+    appearance: none;
 }
 @media screen and (prefers-reduced-motion: reduce)
 {
     .custom-range::-moz-range-thumb
     {
-        transition: none;
+        -moz-transition: none;
+             transition: none;
     }
 }
 .custom-range::-moz-range-thumb:active
@@ -5064,7 +5051,8 @@ input[type='button'].btn-block
     margin-right: 0;
     margin-left: 0;
 
-    transition: background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    -ms-transition: background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+        transition: background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 
     border: 0;
     border-radius: 1rem;
@@ -5077,7 +5065,8 @@ input[type='button'].btn-block
 {
     .custom-range::-ms-thumb
     {
-        transition: none;
+        -ms-transition: none;
+            transition: none;
     }
 }
 .custom-range::-ms-thumb:active
@@ -5856,7 +5845,7 @@ input[type='button'].btn-block
         margin-bottom: 0;
         margin-left: 15px; 
 
-        flex: 1 0;
+        flex: 1 0 0;
     }
 }
 
@@ -5879,7 +5868,7 @@ input[type='button'].btn-block
     {
         margin-bottom: 0; 
 
-        flex: 1 0;
+        flex: 1 0 0;
     }
     .card-group > .card + .card
     {
@@ -6669,7 +6658,7 @@ input[type='button'].btn-block
 
 .media-body
 {
-    flex: 1 1;
+    flex: 1;
 }
 
 .list-group
@@ -7633,8 +7622,7 @@ button.close
     width: 100%;
 
     align-items: center;
-    -webkit-backface-visibility: hidden;
-            backface-visibility: hidden;
+    backface-visibility: hidden;
     perspective: 1000px;
 }
 
@@ -9379,8 +9367,7 @@ button.bg-darker:focus
 
 .position-sticky
 {
-    position: -webkit-sticky !important;
-    position:         sticky !important;
+    position: sticky !important;
 }
 
 .fixed-top
@@ -9401,12 +9388,11 @@ button.bg-darker:focus
     left: 0;
 }
 
-@supports ((position: -webkit-sticky) or (position: sticky))
+@supports (position: sticky)
 {
     .sticky-top
     {
-        position: -webkit-sticky;
-        position:         sticky;
+        position: sticky;
         z-index: 1020; 
         top: 0;
     }
@@ -15254,10 +15240,6 @@ label
 {
     font-size: .875rem;
 }
-.form-control:focus::-ms-input-placeholder
-{
-    color: #adb5bd;
-}
 .form-control:focus::placeholder
 {
     color: #adb5bd;
@@ -15357,10 +15339,6 @@ textarea[resize='horizontal']
 {
     border-color: rgba(50, 151, 211, .25);
 }
-.has-success .form-control::-ms-input-placeholder
-{
-    color: #2dce89;
-}
 .has-success .form-control::placeholder
 {
     color: #2dce89;
@@ -15381,10 +15359,6 @@ textarea[resize='horizontal']
 .has-danger .form-control:focus
 {
     border-color: rgba(50, 151, 211, .25);
-}
-.has-danger .form-control::-ms-input-placeholder
-{
-    color: #fb6340;
 }
 .has-danger .form-control::placeholder
 {
@@ -15661,7 +15635,7 @@ textarea[resize='horizontal']
 {
     min-width: 0; 
 
-    flex: 1 1;
+    flex: 1;
 }
 
 .list-group-content > p
@@ -17936,8 +17910,6 @@ article h5 + figure
     margin: 0;
 
     -webkit-user-select: none;
-       -moz-user-select: none;
-        -ms-user-select: none;
             user-select: none; 
 
     -webkit-touch-callout: none;
@@ -18197,8 +18169,6 @@ article h5 + figure
     box-sizing: border-box; 
 
     -webkit-user-select: none;
-       -moz-user-select: none;
-        -ms-user-select: none;
             user-select: none;
 
     -webkit-touch-callout: none;
